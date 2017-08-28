@@ -1,2 +1,2 @@
 # py-calculator
-Just another repository
+Calculadora simples feita em Python
