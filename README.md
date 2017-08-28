@@ -1,4 +1,2 @@
-# hello-world
+# py-calculator
 Just another repository
-
-Pudim!
